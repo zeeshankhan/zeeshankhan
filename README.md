@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Zeeshan and I'm a iOS app developer with a decade of industry experience.
+
+Currently, I'm working with [Careem](http://careem.com) an Uber company and living in Dubai, UAE.
+
 <!--
 **zeeshankhan/zeeshankhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
