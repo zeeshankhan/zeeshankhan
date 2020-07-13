@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Zeeshan and I'm a iOS  app developer with a decade of industry experience.
+My name is Zeeshan and I'm an iOS  app developer with a decade of industry experience.
 
 Currently, I'm working with [Careem](http://careem.com) an Uber company and living in Dubai, UAE.
 
